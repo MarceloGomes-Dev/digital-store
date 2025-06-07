@@ -28,13 +28,13 @@
 ##### Clonar o repositório
 
 ```
-https://github.com/MarceloGomes-Dev/projeto-digital-store.git
+https://github.com/MarceloGomes-Dev/digital-store.git
 ```
 
 ##### Entrar na pasta
 
 ```
-cd projeto-digital-store 
+cd digital-store 
 ```
 
 ##### Instalar dependências
@@ -63,6 +63,7 @@ npm dev run
       <strong>Marcelo de Almeida Gomes</strong><br>
       <br/>
       <a href="https://github.com/MarceloGomes-Dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/marcelo-gomes-dev-4306aa238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Linkedin-0b7cb0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/marcelogomes_dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="" target="_blank"></a>
     </td>
@@ -76,6 +77,4 @@ npm dev run
   </tr>
 </table>
 
-
-# Digital-Store
 # digital-store
