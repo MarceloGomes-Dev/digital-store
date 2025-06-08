@@ -5,4 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/digital-store/',
-})
+  build: {
+    rollupOptions: {
+      external: ['react-router'], // Adicione esta linha
+    },
+  },
+});
