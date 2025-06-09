@@ -18,7 +18,7 @@ import blusa from "../assets/card/blusa.svg";
 import shoes from "../assets/card/shoes.svg";
 import phone from "../assets/card/phone.svg";
 
-import nikeB from "../assets/products/nike-black.png";
+import nikeB from "../assets/products/nike-red.png";
 import nikeBlue from "../assets/products/nike-blue.png";
 import nikeGreen from "../assets/products/nike-green.png";
 
@@ -75,8 +75,8 @@ export default function HomePage() {
                                     onClick={handleOfertas}
                                     subtitle="Melhores ofertas personalizadas"
                                     title="Queima de"
-                                    titleText="stoque Nike 🔥"
-                                    description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ex eos hic quisquam molestias blanditiis vel, ?"
+                                    titleText="Estoque Nike 🔥"
+                                    description="A queima de estoque Nike começou! Tênis, roupas e acessórios com descontos imperdíveis. É a chance perfeita para renovar seu estilo esportivo com qualidade e preço baixo. Corra e aproveite!"
                                 />
                             </SwiperSlide>
                         ))

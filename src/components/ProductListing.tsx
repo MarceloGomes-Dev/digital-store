@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import ProductCard from "./ProductCard";
 import nikeBlue from "../assets/products/nike-blue.png";
-import nikeG from "../assets/products/nike-black.png";
+import nikeG from "../assets/products/nike-red.png";
 import nikeB from "../assets/products/nike-green.png";
 
 interface IProductListingProps {

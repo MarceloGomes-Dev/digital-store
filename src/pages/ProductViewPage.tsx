@@ -4,7 +4,7 @@ import Layout from "./Layout";
 import { A11y, Navigation, Pagination, Scrollbar } from "swiper/modules";
 
 import blue from "../assets/products/nike-blue.png";
-import black from "../assets/products/nike-black.png";
+import black from "../assets/products/nike-red.png";
 import green from "../assets/products/nike-green.png";
 import BuyBox from "../components/BuyBox";
 import Section from "../components/Section";
