@@ -21,7 +21,6 @@ import phone from "../assets/card/phone.svg";
 import nikeB from "../assets/products/nike-red2.png";
 import nikeBlue from "../assets/products/nike-blue.png";
 import nikeGreen from "../assets/products/nike-yellow2.png";
-import pumaTrinity from "../assets/products/puma-trinity.png"
 
 import Container from "../components/Container";
 import { A11y, Navigation, Pagination, Scrollbar } from "swiper/modules";

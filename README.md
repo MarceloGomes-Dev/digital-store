@@ -3,7 +3,7 @@
 
 ### Projeto Front end da Geração Tech | [View](https://marcelogomes-dev.github.io/Projeto-Digital-Store/) ↗
 
-<img src="https://github.com/user-attachments/assets/076e4023-8758-45fa-882b-60838350c595" alt="Imagem 1" style="margin-right: 10px;" />
+<img src="https://github.com/MarceloGomes-Dev/git-aula-1/blob/main/pagina-redme.png?raw=true" alt="Imagem 1" style="margin-right: 10px;" />
 
 ###  Tecnologias utilizadas
 
