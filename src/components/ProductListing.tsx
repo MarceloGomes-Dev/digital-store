@@ -2,8 +2,9 @@ import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import ProductCard from "./ProductCard";
 import nikeBlue from "../assets/products/nike-blue.png";
-import nikeG from "../assets/products/nike-red.png";
-import nikeB from "../assets/products/nike-green.png";
+import nikeG from "../assets/products/nike-red2.png";
+import nikeB from "../assets/products/nike-yellow2.png";
+import pumaTrinity from "../assets/products/puma-trinity.png"
 
 interface IProductListingProps {
     len: number;
@@ -20,7 +21,7 @@ interface Product {
 const products: Product[] = [
     { category: "Tênis", name: "Tênis K-swiss V8 - Masculino", image: nikeG, price: 249.99, priceDiscount: 349 },
     { category: "Tênis", name: "Tenis Nike - Feminino", image: nikeBlue, price: 249.99, priceDiscount: 349 },
-    { category: "Tênis", name: "Tênis Puma - Masculino", image: nikeB, price: 249.99, priceDiscount: 349 }
+    { category: "Tênis", name: "Tênis Puma - Masculino", image: pumaTrinity, price: 449.99, priceDiscount: 549 }
 ];
 
 export default function ProductListing({ len }: IProductListingProps) {
